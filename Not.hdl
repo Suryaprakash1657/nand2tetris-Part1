@@ -1,0 +1,5 @@
+CHIP Not {
+  IN in;
+  OUT out;
+  PARTS:
+}
